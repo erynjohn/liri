@@ -11,3 +11,11 @@
  
 ###### To use this app you have add the spotify, movie-this, and concert-this keys to the .env file 
 ###### Then npm install to add the npm modules
+
+![Concert](https://github.com/erynjohn/liri/blob/master/concert-this.JPG)
+
+![Movie](https://github.com/erynjohn/liri/blob/master/movie-this.JPG)
+
+![Spotify](https://github.com/erynjohn/liri/blob/master/spotify-this-song.JPG)
+
+      
